@@ -1,4 +1,6 @@
 build:
   version: 1.0
-
 ambiente: "qa"
+db_host: "https://qa.miaapp.it"
+db_user: "pluto"
+db_pass: "5678"
