@@ -1,6 +1,6 @@
 build:
   version: 1.0
-ambiente: "qa"
+ambiente: "accounts-qa"
 db_host: "https://qa.miaapp.it"
 db_user: "prova-qa"
 db_pass: "{cipher}472dfbc687408f948c51fa50c4badff71ea352dbecdc0f170b2383d6c58c1375"
