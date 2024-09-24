@@ -3,4 +3,4 @@ build:
 ambiente: "production"
 db_host: "https://www.miaapp.it"
 db_user: "farfalla341"
-db_pass: "DajeRomaDaje"
+db_pass: "{cypher}0803fc627235911c489c8b3635728dd54d42543677f4d113cb0c8bd42fbb25d9"
