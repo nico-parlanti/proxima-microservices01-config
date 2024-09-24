@@ -1,4 +1,6 @@
 build:
   version: 1.0
-
 ambiente: "production"
+db_host: "https://www.miaapp.it"
+db_user: "farfalla341"
+db_pass: "DajeRomaDaje"
