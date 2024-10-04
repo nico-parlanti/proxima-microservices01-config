@@ -4,9 +4,6 @@ server:
 eureka:
   instance:
     hostname: localhost
-    leaseExpirationDurationInSeconds: 900
-  server:
-    eviction-interval-timer-in-ms: 600000
   client:
     fetchRegistry: false
     registerWithEureka: false
